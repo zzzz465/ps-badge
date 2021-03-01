@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T08:04:44.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="OwEoC2gFe_DAXWyeUpHy" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T08:05:08.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="BL3HYZQR0YtvzUCRdPlx" version="14.4.2" type="github">
   <diagram id="gPHtsbvCYWspdZlOXAZa" name="Page-1">
-    <mxGraphModel dx="1259" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="9IXldLcj50-J8DuCBX4U-46" value="Redis 캐시 사용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9IXldLcj50-J8DuCBX4U-47" value="로그는?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
